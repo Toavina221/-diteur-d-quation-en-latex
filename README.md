@@ -1,0 +1,1 @@
+# -diteur-d-quation-en-latex
