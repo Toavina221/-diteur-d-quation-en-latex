@@ -30,5 +30,6 @@ $
 & a  \times  x  = -b \\												
 & x = -\cfrac{b}{a} 												
 \end{aligned}												
-$												
+$
+![éditeur d’équations LaTeX](images/éditeur d’équations latex.png)								
 
