@@ -31,5 +31,6 @@ $
 & x = -\cfrac{b}{a} 												
 \end{aligned}												
 $
+```	
 ![éditeur d’équations LaTeX](éditeur d’équations latex.png)								
 
