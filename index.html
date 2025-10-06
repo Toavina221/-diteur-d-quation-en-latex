@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Éditeur d'Équations LaTeX</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js"></script>
+</head>
+<body>
+<div class="container">
+<h1>🧮 Éditeur d'Équations LaTeX</h1>
+<div class="editor-container">
+
+<!-- Panel de saisie -->
+<div class="panel input-panel">
+<div class="panel-header">✏️ Code d'entrée <button class="copy-btn" onclick="copyInput()">Copier</button></div>
+<div class="panel-content"><textarea id="input" placeholder="Tapez vos équations ici..."></textarea></div>
+</div>
+
+<!-- Panel LaTeX -->
+<div class="panel latex-panel">
+<div class="panel-header">📝 Code LaTeX <button class="copy-btn" onclick="copyLatex()">Copier</button></div>
+<div class="panel-content"><div id="latexOutput"></div></div>
+</div>
+
+</div>
+</div>
+
+<div class="copy-feedback" id="copyFeedback">Copié dans le presse-papiers!</div>
+
+</body>
+</html>
