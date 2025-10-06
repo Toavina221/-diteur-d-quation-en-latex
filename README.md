@@ -32,5 +32,5 @@ $
 \end{aligned}												
 $
 ```	
-![éditeur d’équations LaTeX](éditeur d’équations latex.png)								
+![EditeurEquationsLatex](EditeurEquationsLatex.png.png)								
 
